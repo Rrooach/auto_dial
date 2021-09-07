@@ -1,0 +1,6 @@
+dial script for tsinghua-ipv*
+
+run config.py first to gen config.json
+
+how to deploy:
+sh connect.sh
